@@ -96,14 +96,14 @@
 							</div>
 							<div class="col-md-3">
 								<div class="well">
-									<h4>Section 3</h4>
-									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
+									<h4>240</h4>
+									<img class="flt-center img-tiny" src="images/240inside.jpg.jpg" alt="240inside" height="150" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
-									<h4>Section 4</h4>
-									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
+									<h4>240</h4>
+									<img class="flt-center img-tiny" src="images/240.jpg" alt="240body" height="150" widgth="100">
 								</div>
 							</div>
 						</div>
