@@ -61,8 +61,8 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="http://www.stancenation.com/">StanceNation</a></li>
-									<li><a href="https://senator-arlo.bowtied.io">Feel The Fuzzy</a></li>
-									<li><a href="https://reddit.com/r/softwaregore">REddit</a></li>
+									<li><a href="http://www.stancenation.com/2015/06/22/ultra-box-hiroshima-hirotaka-fujiwaras-bmw-2002-tii/">BMW</a></li>
+									<li><a href="http://www.stancenation.com/2012/06/30/tandem-of-die/">240</a></li>
 								</ul>
 							</li>
 						</ul>
