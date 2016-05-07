@@ -84,14 +84,14 @@
 						<div class="row">
 							<div class="col-md-3">
 								<div class="well">
-									<h4>Section 1</h4>
+									<h4>BMW</h4>
 									<img class="flt-center img-tiny" src="images/bmw.jpg" alt="bmwbody" height="175" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
-									<h4>Section 2</h4>
-									<p>My left donut is missing, as is my right use lap as chair. Lick the other cats scamper sit in box meowzer!. Immediately regret falling into bathtub unwrap toilet paper hola te quiero. Eat from dog's food white cat sleeps on a black shirt hide head under blanket so no one can see.</p>
+									<h4>BMW</h4>
+									<img class="flt-center img-tiny" src="images/bmwseats.jpg" alt="bmwseats" height="175" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
