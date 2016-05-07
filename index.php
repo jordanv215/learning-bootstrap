@@ -85,7 +85,7 @@
 							<div class="col-md-3">
 								<div class="well">
 									<h4>Section 1</h4>
-									<img class="flt-right img-tiny" src="images/bmw.jpg" alt="bmwbody" height="175" widgth="175">
+									<img class="flt-center img-tiny" src="images/bmw.jpg" alt="bmwbody" height="175" widgth="160">
 								</div>
 							</div>
 							<div class="col-md-3">
