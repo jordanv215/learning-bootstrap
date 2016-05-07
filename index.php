@@ -85,13 +85,13 @@
 							<div class="col-md-3">
 								<div class="well">
 									<h4>BMW</h4>
-									<img class="flt-center img-tiny" src="images/bmw.jpg" alt="bmwbody" height="175" widgth="100">
+									<img class="flt-center img-tiny" src="images/bmw.jpg" alt="bmwbody" height="150" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
 								<div class="well">
 									<h4>BMW</h4>
-									<img class="flt-center img-tiny" src="images/bmwseats.jpg" alt="bmwseats" height="175" widgth="100">
+									<img class="flt-center img-tiny" src="images/bmwseats.jpg" alt="bmwseats" height="150" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
@@ -112,13 +112,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="well">
-									<h4>section 5</h4>
+									<h4>Bavarian Beast</h4>
 									<p>If a demo car is the résumé for a shop – Ultra Box Hiroshima certainly has a good chance of getting called back. Ultra Box of Hiroshima, Japan has been in operation since May of 2002. Ultra Box specializes in European makes, hence the shops two demo cars: this pristine BMW 2002tii and a VW Golf 2. The BMW serves as a rolling representation of the shop’s expertise. Hirotaka Fujiwara set out to build his dream car out of the vintage Bavarian for his own satisfaction along with its commercial purpose.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="well">
-									<h4>section 6</h4>
+									<h4>JDM</h4>
 									<p>Let’s paint the picture to one of the most exciting and sleepless weeks to ever happen in my life. It’s midnight and I just landed in Medford, Oregon, a small town just a few hours north of the Oregon and California border. The weather is inviting and a complete relief compared to the typical death inducing heat of Phoenix, Arizona. As I make my way curbside I immediately spot the chaperones appointed for my trip; Justin Shreeve and Joe Ayala, better known as their Internet persona Tandem Of Die. Obligatory greetings, handshakes and complaints about long flights are addressed then we’re on our way. Having only heard stories about these guys on the Internet, I really wasn’t sure what to expect for my time here. As I look out the window and gaze upon a dark and quiet Medford, silence is broken by Joe. “Hey, we’re going to make a quick stop at the liquor store ’cause we are running low on beer, it’s going to be a long night working on the cars…”. I knew I was going to get along with these guys!</p>
 								</div>
 							</div>
