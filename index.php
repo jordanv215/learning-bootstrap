@@ -50,7 +50,7 @@
 							<span class="sr-only">Toggle navigation</span>
 							<i class="fa fa-th fa-2x fa-spin" aria-hidden="true"></i>
 						</button>
-						<a class="navbar-brand" href="#">Bootstrap Sample</a>
+						<a class="navbar-brand" href="#">Stancenation site bootstrap remodel</a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
@@ -60,7 +60,7 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items <span class="caret"></span></a>
 								<ul class="dropdown-menu">
-									<li><a href="http://google.com">Google.com</a></li>
+									<li><a href="http://www.stancenation.com/">StanceNation</a></li>
 									<li><a href="https://senator-arlo.bowtied.io">Feel The Fuzzy</a></li>
 									<li><a href="https://reddit.com/r/softwaregore">REddit</a></li>
 								</ul>
@@ -76,8 +76,8 @@
 
 						<!--welcome section-->
 						<div class="col-xs-12 well text-center">
-							<h1>Welcome to my website! Yay!</h1>
-							<p>Some text down here...</p>
+							<h1>Jordan Vinson: Car Guru</h1>
+							<p>I'm going to model this after stancenation.com because it's my favorite site and I think the layout is incredible</p>
 						</div>
 
 						<!--1st content section-->
