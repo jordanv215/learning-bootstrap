@@ -97,7 +97,7 @@
 							<div class="col-md-3">
 								<div class="well">
 									<h4>240</h4>
-									<img class="flt-center img-tiny" src="images/240inside.jpg.jpg" alt="240inside" height="150" widgth="100">
+									<img class="flt-center img-tiny" src="images/240inside.jpg" alt="240inside" height="150" widgth="100">
 								</div>
 							</div>
 							<div class="col-md-3">
