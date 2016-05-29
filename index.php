@@ -56,7 +56,7 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="/">Resume</a></li>
+							<li><a href="http://moparvinson.com/">Resume</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items<span class="caret"></span></a>
 								<ul class="dropdown-menu">
