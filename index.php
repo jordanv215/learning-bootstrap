@@ -50,15 +50,15 @@
 							<span class="sr-only">Toggle navigation</span>
 							<i class="fa fa-th fa-2x fa-spin" aria-hidden="true"></i>
 						</button>
-						<a class="navbar-brand" href="#">Stancenation site bootstrap remodel</a>
+						<a class="navbar-brand" href="#">Jordan Vinson</a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="/">Home</a></li>
+							<li><a href="/">Resume</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items<span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="http://www.stancenation.com/">StanceNation</a></li>
 									<li><a href="http://www.stancenation.com/2015/06/22/ultra-box-hiroshima-hirotaka-fujiwaras-bmw-2002-tii/">BMW</a></li>
@@ -76,8 +76,8 @@
 
 						<!--welcome section-->
 						<div class="col-xs-12 well text-center">
-							<h1>Jordan Vinson: Car Guru</h1>
-							<p>I'm going to model this after stancenation.com because it's my favorite site and I think the layout is incredible</p>
+							<h1>Jordan Vinson: Full Stack Web Developer</h1>
+							<p>Check out my Resume and other pages from the navbar at the top of the screen. If you'd like to know more, head over to the contact page and ask me anything you'd like.</p>
 						</div>
 
 						<!--1st content section-->
