@@ -25,7 +25,7 @@
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-		<!-- OUR CUSTOM CSS -->
+		<!-- CUSTOM CSS -->
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- jQuery -->
@@ -36,7 +36,7 @@
 
 		<!-- ADD YOUR JAVASCRIPT/JQUERY DOWN HERE -->
 
-		<title>Hello Bootstrap</title>
+		<title>Moparvinson.com</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
@@ -47,22 +47,23 @@
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<i class="fa fa-th fa-2x fa-spin" aria-hidden="true"></i>
+							<span class="sr-only">Other Pages</span>
+							<i class="fa fa-sort-desc fa-2x" aria-hidden="true"></i>
 						</button>
-						<a class="navbar-brand" href="#">Jordan Vinson</a>
+						<a class="navbar-brand" href="#">Moparvinson.com</a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav navbar-right">
+							<!--change this to a pdf resume-->
 							<li><a href="http://moparvinson.com/">Resume</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items<span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profiles and Other Items<span class="caret"></span></a>
 								<ul class="dropdown-menu">
-									<li><a href="http://www.stancenation.com/">StanceNation</a></li>
-									<li><a href="http://www.stancenation.com/2015/06/22/ultra-box-hiroshima-hirotaka-fujiwaras-bmw-2002-tii/">BMW</a></li>
-									<li><a href="http://www.stancenation.com/2012/06/30/tandem-of-die/">240</a></li>
+									<li><a href="https://www.linkedin.com/in/jordan-vinson-82387811b?trk=nav_responsive_tab_profile_pic">LinkedIn</a></li>
+									<li><a href="https://github.com/jordanv215"">Github</a></li>
+									<li><a href="Capstone">Capstone</a></li>
 								</ul>
 							</li>
 						</ul>
